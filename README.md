@@ -12,8 +12,8 @@
 
 ## Organização do diretório
 
-- <a href="https://github.com/ghmpessa/seminarioC214" target="_blank">Classe de testes</a>
-- <a href="https://github.com/ghmpessa/seminarioC214/tree/main/calculos" target="_blank">Classe de produção</a>
+- <a href="https://github.com/ghmpessa/seminarioC214" target="_blank">Projeto de teste</a>
+- <a href="https://github.com/ghmpessa/seminarioC214/tree/main/calculos" target="_blank">Projeto de produção</a>
 
 ---
 
