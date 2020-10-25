@@ -60,7 +60,7 @@ dotnet test
 - **Opção 1**
     - 🍴 Forkar esse repositório!
 
-- **Option 2**
+- **Opção 2**
     - 👯 Clonar para sua maquina atual.
 
 ### Passo 2
